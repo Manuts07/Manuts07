@@ -23,6 +23,7 @@
 
 **Databases & Tools:**
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Manuts07&theme=shadow_blue&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Manuts07&theme=shadow_blue&hide_border=true)<br/>
